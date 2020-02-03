@@ -1,8 +1,8 @@
 # SocksProxyServer
 Sample socks proxy server
 
-# Prerequisite
+## Prerequisite
 nodejs 10 and above
 
-# Start the sample server
+## Start the sample server
 node socksproxy.js
