@@ -1,2 +1,2 @@
 # SocksProxyServer
-Socks proxy server
+Sample socks proxy server
