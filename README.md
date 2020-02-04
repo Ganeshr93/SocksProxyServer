@@ -2,7 +2,7 @@
 Sample socks proxy server
 
 ## Prerequisite
-nodejs 10 and above
+nodejs 10 and above installed
 
 ## Start the sample server
 Run the below commands
